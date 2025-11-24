@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+
+# --- Virtual Environment ---
+venv/
+ENV/
+env/
+.venv/
+
+# --- Build and distribution ---
+build/
+dist/
+*.egg-info/
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- Tkinter temporary files ---
+*.tcl
+
+# --- Project specific ---
+*.db
+*.sqlite3
